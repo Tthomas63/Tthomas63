@@ -22,6 +22,10 @@ I work on cloud infrastructure, deployment automation, distributed worker system
 - Helped recover production database systems after accidental deletion by coordinating Azure snapshot/backup discovery and restoration.
 - Operated distributed ML competition infrastructure supporting high-volume submissions and long-running worker workloads.
 
+## How I Think About Engineering
+
+I like the unglamorous parts of engineering: deployments that can be trusted, queues that recover cleanly, dashboards that answer real questions, and infrastructure that another engineer can safely operate at 2 AM.
+
 ## Current Target Roles
 
 Senior Platform Engineer · Infrastructure Engineer · Site Reliability Engineer · Cloud Infrastructure Engineer · Senior DevOps Engineer
